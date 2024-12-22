@@ -1,0 +1,2 @@
+﻿CREATE USER [ANYACCESS\sriddle] FOR LOGIN [ANYACCESS\sriddle];
+

@@ -1,0 +1,2 @@
+﻿CREATE USER [MINARA\kdaws-p] FOR LOGIN [MINARA\kdaws-p];
+

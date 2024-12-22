@@ -1,0 +1,2 @@
+﻿CREATE USER [MINARA\kdaws] FOR LOGIN [ANYACCESS\kdaws];
+

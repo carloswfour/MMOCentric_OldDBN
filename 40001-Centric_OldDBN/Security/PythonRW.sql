@@ -1,0 +1,2 @@
+﻿CREATE USER [PythonRW] FOR LOGIN [PythonRW];
+

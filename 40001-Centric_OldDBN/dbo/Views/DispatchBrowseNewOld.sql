@@ -1,4 +1,5 @@
-﻿/*
+﻿
+/*
 =============================================
 Version:	1.0
 Programmer:	Karl Daws
@@ -59,5 +60,5 @@ Entry_Type,
 ENABLED,
 TENEMENT
 FROM DispatchBrowseNew
-WHERE SHIFT_DATE < '1/1/14'
+WHERE SHIFT_DATE < cast('1/1/14' as datetime)
 
