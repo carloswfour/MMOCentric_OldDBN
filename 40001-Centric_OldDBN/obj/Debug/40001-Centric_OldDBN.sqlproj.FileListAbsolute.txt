@@ -1,0 +1,6 @@
+D:\Git\40001-Centric_OldDBN\40001-Centric_OldDBN\bin\Debug\40001-Centric_OldDBN.dacpac
+D:\Git\40001-Centric_OldDBN\40001-Centric_OldDBN\obj\Debug\40001-Centric_OldDBN.sqlprojAssemblyReference.cache
+D:\Git\40001-Centric_OldDBN\40001-Centric_OldDBN\obj\Debug\_40001_Centric_OldDBN.dll
+D:\Git\40001-Centric_OldDBN\40001-Centric_OldDBN\obj\Debug\_40001_Centric_OldDBN.pdb
+D:\Git\40001-Centric_OldDBN\40001-Centric_OldDBN\bin\Debug\_40001_Centric_OldDBN.dll
+D:\Git\40001-Centric_OldDBN\40001-Centric_OldDBN\bin\Debug\_40001_Centric_OldDBN.pdb
